@@ -1,4 +1,4 @@
-<h1 align="center">Easy Shoppinh</h1>
+<h1 align="center">Easy Shopping</h1>
 <br>
 <h2 align="center">This was a project I learned at <a href="http://rodolfomori.com.br/devclup">Devclub</a></h2>
 <br>
